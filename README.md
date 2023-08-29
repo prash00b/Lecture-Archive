@@ -1,6 +1,4 @@
 # Lecture-Archive
-
-# Lecture-Archive
 ## An online learning platform
 
 An online education environment where students and teachers can interact, manage
